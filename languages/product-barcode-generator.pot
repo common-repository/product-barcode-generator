@@ -1,0 +1,548 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-01-01 12:00+0600\n"
+"PO-Revision-Date: 2022-12-20 13:57+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html;esc_html__;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: includes/class-pbar_generator.php\n"
+"X-Poedit-SearchPath-1: includes/class-pbar_generator-activator.php\n"
+"X-Poedit-SearchPath-2: includes/class-pbar_generator-deactivator.php\n"
+"X-Poedit-SearchPath-3: includes/class-pbar_generator-i18n.php\n"
+"X-Poedit-SearchPath-4: includes/class-pbar_generator-loader.php\n"
+"X-Poedit-SearchPath-5: includes/class-pbar-metaInfo.php\n"
+"X-Poedit-SearchPath-6: includes/index.php\n"
+"X-Poedit-SearchPath-7: admin/extenstion/datapbarcodes.php\n"
+"X-Poedit-SearchPath-8: admin/extenstion/preview-extntion.php\n"
+"X-Poedit-SearchPath-9: admin/extenstion/registerSetting.php\n"
+"X-Poedit-SearchPath-10: admin/class_pbarcode_genartor.php\n"
+"X-Poedit-SearchPath-11: admin/class_pbarcode_genartor-admin.php\n"
+"X-Poedit-SearchPath-12: product-barcode-generator.php\n"
+
+#: admin/class_pbarcode_genartor-admin.php:169
+msgid "Settings"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:183
+msgid "barcode generator"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:210
+msgid "Premium Admin Demo"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:211
+msgid "Get Pro"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:212
+msgid "Demo"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:213
+msgid "Documentation"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:214
+#: admin/class_pbarcode_genartor-admin.php:279
+#: admin/class_pbarcode_genartor-admin.php:310
+#: admin/class_pbarcode_genartor-admin.php:345
+msgid "Support"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:219
+msgid "Order Barcode Settings"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:220
+msgid "Barcode Generator For WooCommerce Products And Orders"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:236
+#: includes/class-pbar-metaInfo.php:208
+msgid ""
+"Please enable the WooCommerce plugin, the barcode generator will not work "
+"without 'WooCommerce"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:275
+#: admin/class_pbarcode_genartor-admin.php:306
+#: admin/class_pbarcode_genartor-admin.php:341
+msgid "Frontend Demo (Pro)"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:276
+#: admin/class_pbarcode_genartor-admin.php:307
+#: admin/class_pbarcode_genartor-admin.php:342
+msgid "Backend Demo (Pro)"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:277
+#: admin/class_pbarcode_genartor-admin.php:308
+#: admin/class_pbarcode_genartor-admin.php:343
+msgid "Get Pro Plugin"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:278
+#: admin/class_pbarcode_genartor-admin.php:309
+#: admin/class_pbarcode_genartor-admin.php:344
+msgid "Docs"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:284
+msgid "Bulk Print Page"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:285
+#: admin/class_pbarcode_genartor-admin.php:316
+#: admin/class_pbarcode_genartor-admin.php:351
+msgid "Barcode Generator For WooCommerce Product And WooCommerce Order"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:291
+#: admin/class_pbarcode_genartor-admin.php:323
+msgid "This is a premium version feature"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:291
+#: admin/class_pbarcode_genartor-admin.php:323
+msgid "Live Admin Demo"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:292
+msgid ""
+"This page is for premium users, user can manage print page by removing "
+"title, price, border, they can customize box height as per requirement, "
+"preview with barcode per column and print page size. Ajax can search by "
+"premium product name or product category. At the bottom of this page is a "
+"Load More button, when the user clicks the button more products will be "
+"loaded from your site"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:315
+msgid "Download All Barcodes"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:324
+msgid ""
+"This page is for premium users, user can search Ajax by product name or "
+"product category. It has a Load More button at the bottom of the page, when "
+"the user clicks the button more products will be loaded from your site"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:350
+msgid "Product Barcode Generator"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:358
+msgid "Barcode Design "
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:359
+msgid "Shortcode (Pro) "
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:360
+msgid "Pro Features"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:417
+msgid "Thank you for choosing"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:417
+msgid "Product barcode generator"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:418
+msgid "Please give us a 5 star "
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:418
+msgid "review on "
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:418
+msgid "WordPress.org"
+msgstr ""
+
+#: admin/class_pbarcode_genartor-admin.php:418
+msgid " to help us spread the word!  "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:50
+msgid "Barcode Color: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:51
+msgid "Background Color: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:79
+msgid "Font Size: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:81
+msgid "Text Margin: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:85
+msgid "Font Options: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:88
+msgid "Bold"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:89
+msgid "Italic"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:90
+msgid "Bold italic"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:91
+msgid "Normal"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:94 admin/class_pbarcode_genartor.php:187
+msgid "Text Align: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:97 admin/class_pbarcode_genartor.php:193
+msgid "Left"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:98
+msgid "center"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:99 admin/class_pbarcode_genartor.php:194
+msgid "Right"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:103 admin/class_pbarcode_genartor.php:352
+msgid "Text Position: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:106 admin/class_pbarcode_genartor.php:355
+msgid "Top"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:107 admin/class_pbarcode_genartor.php:356
+msgid "Bottom"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:111 admin/class_pbarcode_genartor.php:213
+msgid "Font family: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:113 admin/class_pbarcode_genartor.php:215
+msgid "Monospace"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:114 admin/class_pbarcode_genartor.php:216
+msgid "Sans-serif"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:115 admin/class_pbarcode_genartor.php:217
+msgid "Serif"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:116 admin/class_pbarcode_genartor.php:218
+msgid "Fantasy"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:117 admin/class_pbarcode_genartor.php:219
+msgid "Cursive"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:118 admin/class_pbarcode_genartor.php:220
+msgid "Custom"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:123 admin/class_pbarcode_genartor.php:225
+msgid ""
+"Input the name of the font family installed on your site, default: sans-"
+"serif"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:162
+msgid "Show Title?: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:165 admin/class_pbarcode_genartor.php:174
+msgid "Yes"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:166 admin/class_pbarcode_genartor.php:175
+msgid "No"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:171
+msgid "Show Price?: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:182
+msgid "Title Color: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:185
+msgid "Price Color: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:192
+msgid "Center"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:204
+msgid "Font Size(Title): "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:205 admin/class_pbarcode_genartor.php:208
+msgid "Product Title Font Size, default: 11(px)"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:207
+msgid "Font Size(Price): "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:281
+msgid "CODE128 (Auto)"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:282
+msgid "EAN-13"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:283
+msgid "EAN-8"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:284
+msgid "UPC(A)"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:287
+msgid "Both numeric and static characters are usable"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:288
+msgid " Sku numeric & 13 digit code."
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:290
+msgid " Sku numeric & 8 digit code.\" "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:293
+msgid "Sku numeric,12 digit required."
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:293
+msgid "Check Digit"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:318
+msgid "The Product SKU"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:319
+msgid "The Product ID"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:321
+msgid "Barcode Number (Premium)"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:327
+msgid "Choose Digit:"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:339
+msgid "Select the Digit of barcode numbers"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:363
+msgid ""
+"If the field is empty, the download button will disappear from single "
+"product page"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:379
+msgid "Image"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:381
+msgid "Svg"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:435
+msgid "Enter the barcode images number on each page, -1 for all displays"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:436
+msgid "Barcode Per Page :"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:439
+msgid "Order By:"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:446
+msgid "ID  "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:447
+msgid "Title"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:448
+msgid "Date"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:449
+msgid "Name"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:453
+msgid "Display barcode image as order by"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:455
+msgid "Category Type: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:457
+msgid "All"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:480
+msgid "Filter barcodes by category on each page "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:486
+msgid "Add Capabily: "
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:489
+msgid "editor"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:490
+msgid "author"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:491
+msgid "contributor"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:492
+msgid "subscriber"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:493
+msgid "customer"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:494
+msgid "shop manager"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:498
+msgid "Admin can add a user role for this page and print page"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:517
+msgid ""
+"\n"
+"    Copy the shortcode and use it anywhere on the single product page"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:523
+msgid ""
+"\n"
+"    If you are a developer you can use this code in a template file  <?php "
+"echo do_shortcode(\"[pbar-shop]\"); ?>"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:532 admin/class_pbarcode_genartor.php:551
+msgid "Click to enable shortcodes for frontend"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:539
+msgid ""
+"Click to turn off automatically display the barcode on the single product "
+"page"
+msgstr ""
+
+#: admin/class_pbarcode_genartor.php:545
+msgid ""
+"Click to turn off automatically display the barcode on the shop and product "
+"cateogry/tags page"
+msgstr ""
+
+#: admin/extenstion/preview-extntion.php:43
+msgid "Product Title"
+msgstr ""
+
+#: admin/extenstion/preview-extntion.php:66
+msgid "$20"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:42
+msgid "Color Setting"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:47
+msgid "Barcode Format"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:52
+msgid "Barcode Content:"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:57
+msgid "Barcode Type"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:62
+msgid "Barcode Width"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:67
+msgid "Barcode  height"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:72
+msgid "Country of Origin (Premium)"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:77
+msgid "Barcode Label Typography"
+msgstr ""
+
+#: admin/extenstion/registerSetting.php:82
+msgid "Product Title and Price Typography"
+msgstr ""
+
+#: includes/class-pbar-metaInfo.php:36
+msgid "Product barcode"
+msgstr ""
+
+#: includes/class-pbar-metaInfo.php:93
+msgid ""
+"This is a premium feature. Input custom barcode number/content. If the "
+"field is empty, or empty the field and save, the barcode content will "
+"default"
+msgstr ""
